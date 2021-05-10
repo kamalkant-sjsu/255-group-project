@@ -1,5 +1,5 @@
 # 255-group-project
-###A Progressive approach towards Image Classification using Neural Networks
+### A Progressive approach towards Image Classification using Neural Networks
 
 Dataset: [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html), [CIFAR-100](https://www.cs.toronto.edu/~kriz/cifar.html)
 
